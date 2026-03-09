@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-  Hello, Github!!!!1!
-=======
-  Hello, world!
->>>>>>> parent of 9d0c3bf (fix: fix github)
+Hello, world!
